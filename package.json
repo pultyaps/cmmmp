@@ -1,0 +1,11 @@
+{
+  "name": "fmmp-pinegrow",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node server.mjs",
+    "account": "node account.mjs",
+    "sync-pages": "node sync-pages.mjs"
+  }
+}
